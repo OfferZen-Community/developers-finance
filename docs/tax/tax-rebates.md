@@ -1,6 +1,6 @@
 ---
 description: A curated finance guide brought to you by OfferZen in partnership with Investec.
-id: provisional-vs-non-provisional-tax
+id: tax-rebates
 sidebar_position: 6
 ---
 
