@@ -4,11 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Maintained by the OfferZen and Investec Programmable Banking Community',
+    title: 'Maintained by the OfferZen, Investec and the developer community',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        The developer finance handbook is an open source handbook maintained by the OfferZen and Investec Programmable Banking Commmunity.
+        The developer finance guide is an open source guide that contains carefully curated content to help you navigate the world of personal finance. 
       </>
     ),
   },
