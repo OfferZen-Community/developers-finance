@@ -1,4 +1,4 @@
-# Welcome to the developers finance guide :)
+# Welcome to the Developer Finance Guide :)
 
 ### How this repo currently works/was set up
 - This is a copy of the [docusaurus.io](https://www.docusaurus.io) getting started template. You'll see that the code hasn't been cleaned up yet and some of the placeholder images are lying around
@@ -11,7 +11,7 @@ OfferZen's partnership with Investec gives us access to experts in the finance f
 We have created this finance guide because we think is will be valuable to developers to have access quality finance content. 
 
 ### How you can help
-Basically in every way possible. The team behind this are n00bs and haven't ever managed an open source repo before. Want to add contribution guidelines? Good idea. Maybe create a discussion, issue or card on the GitHub project? Go for it. The idea is that we build this together.
+Basically in every way possible. The team behind this are n00bs and haven't ever managed an open source repo before. Want to add contribution guidelines? Good idea. Submit the finance questions that you are interested in finding an answer to.Maybe create a discussion, issue or card on the GitHub project? Go for it. The idea is that we build this together.
 
 Thanks so much for helping!
 
