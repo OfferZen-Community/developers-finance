@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The Developers Finance Guide',
-  tagline: 'A curated finance guide brought to you by OfferZen in partnership with Investec',
+  title: 'The Developer Finance Guide',
+  tagline: 'A curated finance guide brought to you by OfferZen, in partnership with Investec',
   url: 'https://www.developersfinance.guide',
   baseUrl: '/',
   onBrokenLinks: 'throw',
