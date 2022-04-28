@@ -4,11 +4,11 @@ id: about-intro
 sidebar_position: 1
 ---
 
-# 💵 Finance Guide for SA Devs
+# The Developer Finance Guide
 
 ### Welcome
 
-This **Finance Guide for SA Devs** contains carefully curated content to help you navigate the world of personal finance. As you progress through your career as a developer, your financial position will change and so will your questions about money.&#x20;
+The Developer Finance Guide contains carefully curated content to help you navigate the world of personal finance. As you progress through your career as a developer, your financial position will change and so will your questions about money.&#x20;
 
 This guide aims to answer those personal finance questions that are top-of-mind - whether that be how to maximise tax rebates while working from home, figuring out how your salary compares to other developers or how you can better customise your banking.&#x20;
 
@@ -18,11 +18,8 @@ We have partnered with [**Investec**](https://www.investec.com/en\_za.html) to p
 
 In addition, we have worked closely with members of the [**OfferZen developer community**](https://www.offerzen.com/community) to develop the framework for this guide and ensure that the content we include is valuable and useful to you.&#x20;
 
-
-[Interested in a Programmable Banking account with Investec? Click here](https://www.investec.com/en\_za/banking/programmable-banking.html#intouch)
-
 :::info
-If you're a developer in SA reading this guide and have questions relating to personal finances that we haven't covered, please submit them [**here**](https://8malmkzgvs8.typeform.com/to/oLVWxa8r) or contribute to this guide directly on [**GitHub**](https://github.com/OfferZen-Community/developers-finance) We want to make sure that we curate content that is useful to you.
+If you're a developer in SA reading this guide and have questions relating to personal finances that we haven't covered, please submit them [**here**](https://8malmkzgvs8.typeform.com/to/oLVWxa8r) or create an issue on [**GitHub**](https://github.com/OfferZen-Community/developers-finance). We want to make sure that we curate content that is useful to you. You are also welcome to make suggestions or edits to the guide so that we can build this out together.
 :::
 
 ### What this isn't
