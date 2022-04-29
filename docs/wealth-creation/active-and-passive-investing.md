@@ -1,7 +1,12 @@
+---
+description: A curated finance guide brought to you by OfferZen in partnership with Investec.
+id: active-and-passive-investing
+sidebar_position: 6
+---
 # Active and passive investing
 
 <iframe
-      width="480"
+      width="650"
       height="200"
       src="https://open.spotify.com/embed/episode/4RkZlPE6K7NPAH9au3fWeJ?feature=oembed"
       frameborder="0"

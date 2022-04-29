@@ -1,6 +1,11 @@
+---
+description: A curated finance guide brought to you by OfferZen in partnership with Investec.
+id: wealth-creation-investingoffshore
+sidebar_position: 5
+---
 # Investing offshore
 <iframe
-      width="480"
+      width="650"
       height="200"
       src="https://open.spotify.com/embed/episode/1ocphb6X6MhlRtvP0egHlm"
       frameborder="0"

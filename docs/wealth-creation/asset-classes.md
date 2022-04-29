@@ -1,7 +1,12 @@
+---
+description: A curated finance guide brought to you by OfferZen in partnership with Investec.
+id: wealth-creation-assetclasses
+sidebar_position: 3
+---
 # Asset classes
 
 <iframe
-      width="480"
+      width="650"
       height="200"
       src="https://open.spotify.com/embed/episode/6eSPRbGV0yHfqIa7ZXCpjL"
       frameborder="0"
