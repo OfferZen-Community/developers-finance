@@ -111,6 +111,14 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    plugins: [
+      [
+        require.resolve('docusaurus-gtm-plugin'),
+        {
+          id: 'GTM-W3VWK67', // GTM Container ID
+        }
+      ]
+    ],
 };
 
 module.exports = config;
