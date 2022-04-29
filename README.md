@@ -2,7 +2,7 @@
 
 ### How this repo currently works/was set up
 - This is a copy of the [docusaurus.io](https://www.docusaurus.io) getting started template. You'll see that the code hasn't been cleaned up yet and some of the placeholder images are lying around
-- @suitophobia is the owner of a Vercel project that builds this repo to www.developerfinance.guide
+- @suitophobia is the owner of a Vercel project that builds this repo to [www.developerfinance.guide](https://www.developersfinance.guide/)
 
 ### Background
 Financial wellbeing is such a key element in anyone’s life and developers are not the exception.
