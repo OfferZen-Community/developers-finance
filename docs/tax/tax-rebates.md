@@ -9,4 +9,4 @@ sidebar_position: 6
 
 ### What tax rebate can I claim if I work from home?
 
-&#x20;\[Copy coming soon] Investec to provide
+Coming soon

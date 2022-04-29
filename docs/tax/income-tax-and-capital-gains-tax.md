@@ -8,4 +8,4 @@ sidebar_position: 2
 
 ### What is the difference between income tax and capital gains tax?&#x20;
 
-\[Copy coming soon] Investec to provide
+Coming soon
