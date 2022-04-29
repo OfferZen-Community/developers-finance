@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # 🇲🇺 Mauritius
 <iframe
-      width="480"
+      width="650"
       height="200"
       src="https://open.spotify.com/embed/episode/0enGzggjCngKAKfE7WBton"
       frameborder="0"

@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'In partnership with Investec, and the OfferZen developer community',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         In-depth insights from financial experts from Investec. We've worked closely with members of the OfferZen developer community to develop the framework for this guide and ensure that the content is valuable and useful. 
@@ -23,10 +23,10 @@ const FeatureList = [
   },
   {
     title: 'Built for devs, by devs',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Use this guide in your personal capacity and help develop it for others.
+        Use this guide in your personal capacity and help to develop it for others.
       </>
     ),
   },

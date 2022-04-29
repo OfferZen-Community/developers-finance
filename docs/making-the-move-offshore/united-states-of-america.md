@@ -6,7 +6,7 @@ sidebar_position: 5
 
 # 🇺🇸 United States of America
 <iframe
-      width="480"
+      width="650"
       height="200"
       src="https://open.spotify.com/embed/episode/5kRsetk57W3zoLNSWDFJop"
       frameborder="0"

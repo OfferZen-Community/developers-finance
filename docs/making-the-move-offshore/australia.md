@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # 🇦🇺 Australia
 <iframe
-      width="480"
+      width="650"
       height="200"
       src="https://open.spotify.com/embed/episode/3AmExls2nc6Ue8EaSqzPTz"
       frameborder="0"
