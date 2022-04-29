@@ -6,6 +6,8 @@ sidebar_position: 2
 
 # Income tax and capital gains tax
 
+![banner](pathname:///img/assets/taxzebbie.png)
+
 ### What is the difference between income tax and capital gains tax?&#x20;
 
 Coming soon

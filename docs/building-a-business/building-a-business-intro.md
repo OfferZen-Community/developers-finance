@@ -5,6 +5,7 @@ sidebar_position: 1
 ---
 
 # 💰 Building a Business
+![banner](pathname:///img/assets/business.png)
 
 You won't find many software makers that don't tinker with a side project or a passion project over the weekend and in their spare time.&#x20;
 
