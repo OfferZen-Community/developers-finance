@@ -1,7 +1,12 @@
+---
+description: A curated finance guide brought to you by OfferZen in partnership with Investec.
+id: wealth-creation-investing101
+sidebar_position: 2
+---
 # Investing 101
 
 <iframe
-      width="480"
+      width="650"
       height="200"
       src="https://open.spotify.com/embed/episode/2w9h61mNziM9QRa3eVxp7I"
       frameborder="0"

@@ -1,6 +1,11 @@
+---
+description: A curated finance guide brought to you by OfferZen in partnership with Investec.
+id: wealth-creation-investinginproperty
+sidebar_position: 4
+---
 # Investing in property
 <iframe
-      width="480"
+      width="650"
       height="200"
       src="https://open.spotify.com/embed/episode/3kZMxtIxKPpXSKdkxHs4fR"
       frameborder="0"
