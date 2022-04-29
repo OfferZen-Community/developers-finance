@@ -5,6 +5,7 @@ sidebar_position: 1
 ---
 
 # ✈️ Making the Move Offshore
+![banner](pathname:///img/assets/offshore.png)
 
 For many South African developers, the global tech marketplace is really attractive: filled with big opportunities, career growth and stronger currencies.&#x20;
 
