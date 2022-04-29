@@ -6,6 +6,7 @@ sidebar_position: 1
 
 # The Developer Finance Guide
 ![banner](pathname:///img/assets/financeguide.png)
+
 ### Welcome
 
 The Developer Finance Guide contains carefully curated content to help you navigate the world of personal finance. As you progress through your career as a developer, your financial position will change and so will your questions about money.&#x20;

@@ -6,7 +6,7 @@ sidebar_position: 4
 
 # 🇬🇧 United Kingdom
 <iframe
-      width="480"
+      width="650"
       height="200"
       src="https://open.spotify.com/embed/episode/6qO4yfDYuokJHnhkqWFjt3"
       frameborder="0"

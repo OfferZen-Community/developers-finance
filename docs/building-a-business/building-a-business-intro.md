@@ -7,10 +7,10 @@ sidebar_position: 1
 # 💰 Building a Business
 ![banner](pathname:///img/assets/business.png)
 
-You won't find many software makers that don't tinker with a side project or a passion project over the weekend and in their spare time.&#x20;
+You won't find many software makers that don't tinker with a side project in their spare time.
+Whether intentional or not, that passion project could make you extra money and at some point, you might start to wonder whether it's time to quit your job and start building out a business.
 
-Whether intentional or not, that side project can start to make you extra money and at some point, you might start to wonder whether it's the right time to quit your job and start building out a business.&#x20;
 
 :::info
-If you have further questions relating to building a business, please submit them [_**here**_](https://8malmkzgvs8.typeform.com/to/oLVWxa8r?)
+If we have not answered all your questions relating to building a business below, please submit them [_**here**_](https://8malmkzgvs8.typeform.com/to/oLVWxa8r?) or create and issue on [_**GitHub**_](https://github.com/OfferZen-Community/developers-finance/issues).
 :::
