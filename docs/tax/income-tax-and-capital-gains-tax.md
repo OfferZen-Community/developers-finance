@@ -10,4 +10,8 @@ sidebar_position: 2
 
 ### What is the difference between income tax and capital gains tax?&#x20;
 
-Coming soon
+Income tax is levied on the Income that one earns either by way of remuneration (example - Salary from a job) or trade (example consulting fees for an independent consultant.
+
+Capital gains tax is levied on gains that arise from disposal of specific assets that a person has. For instance, if one had a secondary property that one rented and then disposed of that property for more than it was purchased for, a capital gain would result.
+
+Ironically, Capital gains enter the Income tax calculation, in that a specific percentage of Capital gains are included in your taxable income when calculating Income tax.
