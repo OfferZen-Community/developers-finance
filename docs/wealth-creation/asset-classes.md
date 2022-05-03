@@ -18,11 +18,11 @@ sidebar_position: 3
 
 ### What are asset classes?
 
-#### The building blocks of an investment portfolio
+### The building blocks of an investment portfolio
 
 Cash, bonds, equities and property make up the four main asset classes, which are considered the building blocks of an investment portfolio. Each asset class plays an important role in balancing your portfolio, whether it’s providing stability in the form of bonds, or delivering higher returns by investing in company stocks.
 
-#### Cash
+### Cash
 
 Everyone understands cash. It’s predictable, reliable and liquid. By investing your money with a bank, you are essentially lending the bank money with interest. There are pros and cons to investing in cash.
 
@@ -30,7 +30,7 @@ Cash is liquid, meaning you can access it when you need it but the returns on ca
 
 For example, if inflation is 5% and the interest earned on cash is 4% per year, you’re actually losing 1% on your investment to inflation every year, but this is the payoff for money that is almost guaranteed to remain stable. Considering this, cash is better suited to protecting savings for short-term goals.
 
-#### Bonds
+### Bonds
 
 When buying bonds, you are lending money to the bond issuer, either a country or a company. You earn interest on the bond every month until the investment matures at a specified date, at which point the initial cost of the investment, the principal, is paid back to you. Due to its long investment horizon, bonds are considered illiquid, as you only have access to your money when the investment matures at an agreed upon date.
 
@@ -38,7 +38,7 @@ It depends on the nature of the bond, but bonds are generally seen as long-term 
 
 On the downside, bonds are also susceptible to inflation, seeing that it’s a long-term investment with a fixed interest rate. If inflation increases during the investment period it negatively impacts the interest paid and the amount of capital paid to you when the investment matures.
 
-#### Equity
+### Equity
 
 Investing in company stocks, or equity, has consistently outperformed other asset classes in the long run, but it comes with price volatility, which is part and parcel of this asset class and shouldn’t dissuade you from investing. Equity is an essential component of every long-term investment strategy.
 
@@ -48,7 +48,7 @@ Successful companies such as Apple or Tesla have shown astronomical growth in th
 
 Equity has consistently outperformed other asset classes over a longer investment horizon. Another benefit is that inflation is already priced in the services or products of a company. If inflation rises, so too will the price of the products or services. You also have easy access to your equity investments should you need the money, but it’s worth noting the tax implications when selling company shares.
 
-#### Property
+### Property
 
 Due to its long track record, investors have a firm grasp of what makes the property market tick. You have the option of investing directly in property or buy shares of companies that invest in property.
 
@@ -56,7 +56,7 @@ The traditional means of investing in property is to buy a physical piece of lan
 
 Property requires months, even years, to sell and is thus a long-term, illiquid investment.
 
-#### Common investor mistakes
+### Common investor mistakes
 
 Investing can be intimidating for first-time investors but a good start is working with a financial professional to help you structure a solid investment portfolio. Getting started is the important part. Below are a few common mistakes beginner investors should try to avoid.
 
