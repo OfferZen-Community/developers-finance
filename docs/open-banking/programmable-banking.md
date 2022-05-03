@@ -46,13 +46,13 @@ Check out our community projects on [**GitLab**](https://gitlab.com/offerzen-com
 
 ### Take a look at our latest posts
 
-|[How OneCart OneCart Used Programmable Banking for Fraud Detection and Prevention](https://www.offerzen.com/blog/onecart-using-programmable-banking-for-fraud-detection-and-prevention)|![](<//img/assets/OneCart.png>)|
+|[How OneCart OneCart Used Programmable Banking for Fraud Detection and Prevention](https://www.offerzen.com/blog/onecart-using-programmable-banking-for-fraud-detection-and-prevention)|![](<//img/assets/onecart.png>)|
 |--|--|
 |[Track expiring card subscriptions](https://www.offerzen.com/blog/programmable-banking-community-an-easy-way-to-track-your-expiring-subscriptions) |![](<//img/assets/expiringcards.png>)|
-|[How To Save Money While You Run](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-money-while-you-run)|![](<//img/assets/Savemoneyrunning.png>)|
-|[How Afican Alliance Automated Expense Allocation to Save Time and Costs ](https://www.offerzen.com/blog/how-african-alliance-automated-expense-allocation-to-save-time-and-costs)|![](<//img//assets/AfricanAlliance.png>)|
+|[How To Save Money While You Run](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-money-while-you-run)|![](<//img/assets/savemoneyrunning.png>)|
+|[How Afican Alliance Automated Expense Allocation to Save Time and Costs ](https://www.offerzen.com/blog/how-african-alliance-automated-expense-allocation-to-save-time-and-costs)|![](<//img//assets/africanalliance.png>)|
 | [Buying Electricity with Bitcoin: The “LightningWatts” Proof of Concept](https://www.offerzen.com/blog/buying-electricity-with-bitcoin-the-lightningwatts-proof-of-concept)|![](<//img/assets/lighteningwatts.png>)|
-|[How We Created a Proof of Concept in a Day](https://www.offerzen.com/blog/how-we-created-a-proof-of-concept-in-a-day)|![](<//img/assets/POC.png>)|
+|[How We Created a Proof of Concept in a Day](https://www.offerzen.com/blog/how-we-created-a-proof-of-concept-in-a-day)|![](<//img/assets/poc.png>)|
 |[How To Save On Your Mortgage Interest](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-on-your-mortgage-interest)|![](<//img/assets/savemortageinterest.png>)|
 |[A Simpler Way to Plan & Manage your Businesses Taxes](https://www.offerzen.com/blog/programmable-banking-community-a-simpler-way-to-plan-manage-your-businesses-taxes)|![](<//img/assets/businesstaxes.png>)|
 |[Easily reward community contributions](https://www.offerzen.com/blog/programmable-banking-project-transparent-rewards-for-open-source-contributors#stq=programmable%20card%20renewal\&stp=1)|![](//img/assets/communitycontributions.png)|
