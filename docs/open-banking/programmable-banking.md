@@ -52,7 +52,6 @@ Check out our community projects on [**GitLab**](https://gitlab.com/offerzen-com
 |[How To Save Money While You Run](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-money-while-you-run)|![](<//img/assets/Savemoneyrunning.png>)|
 |[How Afican Alliance Automated Expense Allocation to Save Time and Costs ](https://www.offerzen.com/blog/how-african-alliance-automated-expense-allocation-to-save-time-and-costs)|![](<//img//assets/AfricanAlliance.png>)|
 | [Buying Electricity with Bitcoin: The “LightningWatts” Proof of Concept](https://www.offerzen.com/blog/buying-electricity-with-bitcoin-the-lightningwatts-proof-of-concept)|![](<//img/assets/lighteningwatts.png>)|
-|--|--|
 |[How We Created a Proof of Concept in a Day](https://www.offerzen.com/blog/how-we-created-a-proof-of-concept-in-a-day)|![](<//img/assets/POC.png>)|
 |[How To Save On Your Mortgage Interest](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-on-your-mortgage-interest)|![](<//img/assets/savemortageinterest.png>)|
 |[A Simpler Way to Plan & Manage your Businesses Taxes](https://www.offerzen.com/blog/programmable-banking-community-a-simpler-way-to-plan-manage-your-businesses-taxes)|![](<//img/assets/businesstaxes.png>)|
