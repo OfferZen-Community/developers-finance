@@ -46,7 +46,7 @@ Check out our community projects on [**GitLab**](https://gitlab.com/offerzen-com
 
 ### Take a look at our latest posts
 
-|[How OneCart OneCart Used Programmable Banking for Fraud Detection and Prevention](https://www.offerzen.com/blog/onecart-using-programmable-banking-for-fraud-detection-and-prevention)|![](<//img/assets/Onecart.png>)|
+|[How OneCart OneCart Used Programmable Banking for Fraud Detection and Prevention](https://www.offerzen.com/blog/onecart-using-programmable-banking-for-fraud-detection-and-prevention)|![](<//img/assets/OneCart.png>)|
 |--|--|
 |[Track expiring card subscriptions](https://www.offerzen.com/blog/programmable-banking-community-an-easy-way-to-track-your-expiring-subscriptions) |![](<//img/assets/expiringcards.png>)|
 |[How To Save Money While You Run](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-money-while-you-run)|![](<//img/assets/Savemoneyrunning.png>)|
