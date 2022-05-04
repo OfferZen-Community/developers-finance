@@ -1,4 +1,4 @@
-# Welcome to the Developer Finance Guide :)
+# Welcome to the Developer Finance Guide 
 
 ### How this repo currently works/was set up
 
@@ -14,12 +14,13 @@ We have created this finance guide because we think is will be valuable to devel
 
 ### How you can help
 
-Basically in every way possible. The team behind this are n00bs and haven't ever managed an open source repo before. Want to add contribution guidelines? Good idea. Submit the finance questions that you are interested in finding an answer to.Maybe create a discussion, issue or card on the GitHub project? Go for it. The idea is that we build this together.
+Basically in every way possible. The team behind this are n00bs and haven't ever managed an open source repo before. Want to add contribution guidelines? Good idea. Submit the finance questions that you are interested in finding an answer to? Great. Maybe create a discussion, issue or card on the GitHub project? Go for it. The idea is that we build this together.
 
 Thanks so much for helping!
 
 ### Getting started with the repo
 
+In order to make a contribution or edit, fork the repo and request merges in. 
 Consider dockerising the development to avoid conflicts with the contributor's local system.
 
 ```
