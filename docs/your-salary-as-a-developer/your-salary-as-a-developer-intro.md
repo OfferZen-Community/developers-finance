@@ -4,7 +4,6 @@ id: your-salary-as-a-developer-intro
 sidebar_position: 1
 ---
 # 💻 Your Salary as a Developer
-![banner](pathname:///img/assets/salary.png)
 
 Over the past few decades, software has proven to be a formidable force. While entire industries have folded, the African software engineering industry continues to grow. In such an industry, it is important to know your worth and understand what factors may affect your earning potential in the future.&#x20;
 

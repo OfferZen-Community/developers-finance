@@ -5,7 +5,6 @@ sidebar_position: 1
 ---
 
 # The Developer Finance Guide
-![banner](pathname:///img/assets/financeguide.png)
 
 ### Welcome
 
