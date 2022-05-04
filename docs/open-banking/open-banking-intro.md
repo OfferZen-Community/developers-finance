@@ -6,7 +6,6 @@ sidebar_position: 1
 
 
 # 🏛 Open Banking
-![banner](pathname:///img/assets/openbanking.png)
 
 Open Banking is an exciting movement that aims to enable banking customers with greater control and transparency over their financial data and banking experience.
 

@@ -5,7 +5,6 @@ sidebar_position: 1
 
 ---
 # 💸 Tax
-![banner](pathname:///img/assets/tax.png)
 
 In our quest to figure out what personal finance topics keep developers up at night, we realisd that tax questions are high up on the list.
 
