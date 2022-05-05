@@ -16,6 +16,8 @@ We have created this finance guide because we think is will be valuable to devel
 
 Basically in every way possible. The team behind this are n00bs and haven't ever managed an open source repo before. Want to add contribution guidelines? Good idea. Submit the finance questions that you are interested in finding an answer to? Great. Maybe create a discussion, issue or card on the GitHub project? Go for it. The idea is that we build this together.
 
+ProTip: If you're looking for the guide's markdown pages, check out the `docs` folder!
+
 Thanks so much for helping!
 
 ### Getting started with the repo
