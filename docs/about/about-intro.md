@@ -24,4 +24,4 @@ If you're a developer in SA reading this guide and have questions relating to pe
 
 ### What this isn't
 
-The information provided in this guide is for general information only. It should not be taken as constituting professional advice as OfferZen is not a financial adviser. You should consider seeking independent legal, financial, taxation or other advice to check how the information relates to your unique circumstances. OfferZen is not liable for any loss caused, whether due to negligence or otherwise arising from the use of or reliance on the information provided, directly or indirectly, on this website.
+This guide is for general information only. It should not be taken as professional advice as OfferZen is not a financial adviser. You should consider seeking independent legal, financial, taxation or other advice to check how the information relates to your unique circumstances. OfferZen is not liable for any loss caused, whether due to negligence or otherwise, arising from the use of or reliance on the information provided, directly or indirectly, on this website.
