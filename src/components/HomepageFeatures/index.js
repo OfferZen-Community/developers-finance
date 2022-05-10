@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Get in-depth insights from financial experts at Investec and experts within the community. 
+        Get in-depth insights from financial experts at Investec and within the community. 
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Use this guide in your personal capacity to learn more about personal finance and help to develop it for others.
+        Use this guide to learn more about personal finance and help to develop it for others by making a contribution.
       </>
     ),
   },
