@@ -5,7 +5,6 @@ sidebar_position: 3
 ---
 
 # Tax brackets
-![banner](pathname:///img/assets/taxzebbie.png)
 
 ### Into which tax bracket do I fall?&#x20;
 

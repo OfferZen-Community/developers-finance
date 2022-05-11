@@ -6,8 +6,6 @@ sidebar_position: 2
 
 # Income tax and capital gains tax
 
-![banner](pathname:///img/assets/taxzebbie.png)
-
 ### What is the difference between income tax and capital gains tax?&#x20;
 
 Income tax is levied on the income that one earns either by way of remuneration (eg. salary from a job) or trade (eg. consulting fees for an independent consultant).
