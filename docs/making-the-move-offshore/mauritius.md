@@ -15,18 +15,18 @@ sidebar_position: 3
       allowfullscreen
 ></iframe>
 
-[Nozipho Tshabalala](https://www.linkedin.com/in/noziphotshabalala/?originalSubdomain=za) speaks with Investec's [Rene van Zyl ](https://www.linkedin.com/in/renelabuschagne/?originalSubdomain=za)and [Gordan Stuart](https://www.linkedin.com/in/gordon-stuart-81645a173/?originalSubdomain=mu), MD of Accuro.
+[Nozipho Tshabalala](https://www.linkedin.com/in/noziphotshabalala/?originalSubdomain=za) speaks with Investec's [Rene van Zyl ](https://www.linkedin.com/in/renelabuschagne/?originalSubdomain=za)and [Gordan Stuart](https://www.linkedin.com/in/gordon-stuart-81645a173/?originalSubdomain=mu), MD of [Accuro](https://www.accuro.com/).
 
 
-If you dream of working and living in Mauritius, or you’re considering investing there, a wide range of options is available. But before you jump on a plane, there is more to island life than cocktails and white beaches, say [Rene van Zyl](https://www.linkedin.com/in/renelabuschagne/?originalSubdomain=za) of Investec, and [Gordon Stuart](https://www.linkedin.com/in/gordon-stuart-81645a173/?originalSubdomain=mu), Accuro MD in Mauritius.
+If you dream of working and living in Mauritius, or you’re considering investing there, a wide range of options is available. But before you jump on a plane, there is more to island life than cocktails and white beaches.
 
 ### High cost of living
 
 Food, property and cars in Mauritius are expensive. In addition, expats are treated differently from citizens:
 
-* They pay higher school fees than citizens at the same school.
-* They are restricted to buying property in designated schemes, which is pricey.
-* They are taxed differently
+* They pay higher school fees than citizens at the same school
+* They are restricted to buying property in designated schemes, which is pricey
+* They are taxed differently.
 
 ### Mauritius as a tax haven?
 
@@ -68,7 +68,7 @@ There’s no estate duty, but Mauritian law does reserve between 50% and 75% of 
 
 To avoid forced heirship, you can buy the property in trust. A trust can be administered in Mauritius, but still established using, for example, Guernsey law.
 
-Your heirs in SA will avoid estate duty and CGT and get the benefit of permanent residency.
+Your heirs in SA will avoid estate duty and capital gains tax and get the benefit of permanent residency.
 
 The trust also gets around the fact that Mauritian law does not recognise a joint or mutual will nor allow heirs as appointed executors.
 
@@ -77,9 +77,9 @@ The trust also gets around the fact that Mauritian law does not recognise a join
 Investing in Mauritius has a lot to recommend it.&#x20;
 
 * There are no:
-  * Exchange controls.
-  * Dividend-withholding taxes.
-  * CGT
+  * Exchange controls
+  * Dividend-withholding taxes
+  * Capital gain tax
   * Estate duty taxes
 * The island is well-located, being only four hours from SA and close to other jurisdictions.
 * It enjoys economic and political stability

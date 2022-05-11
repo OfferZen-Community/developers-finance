@@ -4,6 +4,8 @@ id: wealth-creation-investinginproperty
 sidebar_position: 4
 ---
 # Investing in property
+### Is property the investment for me?
+
 <iframe
       width="650"
       height="200"
@@ -15,7 +17,6 @@ sidebar_position: 4
 
 [Ayabonga Cawe ](https://www.linkedin.com/in/ayabonga-cawe-70942746/?originalSubdomain=za)speaks with Investec's [Kyle Lasarow](https://www.linkedin.com/in/kylelasarow/) and [Marc Fellner.](https://www.linkedin.com/in/marc-fellner-1244b2103/?originalSubdomain=za)
 
-### Is property the investment for me?
 
 ### Investing in property
 
@@ -27,7 +28,7 @@ Property is useful as a hedge against inflation, seeing that property portfolios
 
 ### Listed and unlisted property
 
-Property funds listed on the JSE are managed by teams of investment professionals who invest using the advantage of scale and aggregation. It provides investors access to highly competent management that make the tricky investment decisions for you, typically focussing on property in the retail space, including strip malls, smaller shopping centres, offices and industrial spaces.
+Property funds listed on the Johannesburg Stock Exchange (JSE) are managed by teams of investment professionals who invest using the advantage of scale and aggregation. It provides investors access to highly competent management that make the tricky investment decisions for you, typically focussing on property in the retail space, including strip malls, smaller shopping centres, offices and industrial spaces.
 
 The two cornerstones of investing are to make a capital return and to make an annual return on the investment, and in property, a significant portion of the return may be in the form of a taxable distribution.
 
@@ -43,7 +44,7 @@ South Africa has a large listed property sector that is diversified across the p
 
 Unlike an investment in equity, where you are paid a dividend and incur a dividend withholding tax, in listed property, an investor is paid a distribution that is fully taxable. An investment structure called a real estate investment trust (REIT) makes it possible to pay shareholders without the corporation or the trust incurring any tax.
 
-REATs are generally split between debt and equity in the financing of property transactions, which magnifies the return that gets passed to shareholders.
+REITs are generally split between debt and equity in the financing of property transactions, which magnifies the return that gets passed to shareholders.
 
 ### Location
 
@@ -60,7 +61,7 @@ Property investment is a diverse and large market that requires expertise to nav
 ### In short
 
 * Property is one of the oldest asset classes and will always be relevant&#x20;
-* Important to divorce living in a property for shelter and security from investing in property
+* It is important to divorce living in a property for shelter and security from investing in property
 * It is cheaper to invest in listed property, such as retail and office space (REIT) and there’s no exit risk, as when buying a property&#x20;
 * Diversification in terms of location and subsections is important&#x20;
 * The main risks are liquidity, inflation, location and capital flight&#x20;

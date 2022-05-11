@@ -4,6 +4,7 @@ id: active-and-passive-investing
 sidebar_position: 6
 ---
 # Active and passive investing
+### What is the difference between active and passive investing?
 
 <iframe
       width="650"
@@ -14,12 +15,11 @@ sidebar_position: 6
       allowfullscreen
 ></iframe>
 
-[Ayabonga Cawe](https://www.linkedin.com/in/ayabonga-cawe-70942746/?originalSubdomain=za)speaks with Investec's [Lisa Stride ](https://www.linkedin.com/in/lisa-stride-619838a7/?originalSubdomain=za)and [Fabrice Muhizi](https://www.linkedin.com/in/fabrice-muhizi-cfa-96b71953/).
+[Ayabonga Cawe](https://www.linkedin.com/in/ayabonga-cawe-70942746/?originalSubdomain=za) speaks with Investec's [Lisa Stride ](https://www.linkedin.com/in/lisa-stride-619838a7/?originalSubdomain=za)and [Fabrice Muhizi](https://www.linkedin.com/in/fabrice-muhizi-cfa-96b71953/).
 
 
-### What is the difference between active and passive investing?
 
-### Active vs. passive investing
+### Active vs passive investing
 
 The central difference between the two investment approaches is around how often managers make investment decisions and review the portfolio.
 

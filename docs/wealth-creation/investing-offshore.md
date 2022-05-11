@@ -4,6 +4,8 @@ id: wealth-creation-investingoffshore
 sidebar_position: 5
 ---
 # Investing offshore
+### What do I need to consider when investing offshore?
+
 <iframe
       width="650"
       height="200"
@@ -15,7 +17,6 @@ sidebar_position: 5
 
 [Ayabonga Cawe ](https://www.linkedin.com/in/ayabonga-cawe-70942746/?originalSubdomain=za)speaks with Investec's [Ronelle Hutchinson](https://www.linkedin.com/in/ronelle-hutchinson-a6b82a12/?originalSubdomain=za) and [Rick Cardo](https://www.linkedin.com/in/richard-cardo-cfa-65043645/).
 
-### What do I need to consider when investing offshore?
 
 ### Invest offshore
 
@@ -25,11 +26,11 @@ _The economy in SA makes up less than 0.5% of global economic growth_**.** A dro
 
 ### How do I invest offshore?
 
-For investors new to offshore investing, the easiest way is to gain indirect offshore exposure by investing in companies listed on the JSE that have exposure to global markets, but your options are limited.
+For investors new to offshore investing, the easiest way is to gain indirect offshore exposure by investing in companies listed on the Johannesburg Stock Exchange (JSE) that have exposure to global markets, but your options are limited.
 
 If you want to invest directly, you have two options. One is to make use of what’s called a _discretionary allowance_. Every adult is allowed to annually move R1 million abroad and do with it as they please, without any clearance required from a regulatory authority. Professional investors at Investec can help you allocate these funds and design a balanced offshore portfolio.
 
-The other option is to make use of a foreign investment allowance that allows you to take up to R10 million per year offshore, effectively enabling you to convert rands into hard currency such as Dollars and invest this money into the market. To qualify for this, you must be a registered taxpayer and your tax affairs must be in order. The South African Revenue Service (SARS) will issue you a tax clearance certificate that is valid for a period of 12 months.
+The other option is to make use of a foreign investment allowance that allows you to take up to R10 million per year offshore, effectively enabling you to convert rands into hard currency such as dollars and invest this money into the market. To qualify for this, you must be a registered taxpayer and your tax affairs must be in order. The South African Revenue Service (SARS) will issue you a tax clearance certificate that is valid for a period of 12 months.
 
 The other, more accessible, method for early investors is through offshore unit trusts or ETFs managed by a professional financial institution such as Investec.
 

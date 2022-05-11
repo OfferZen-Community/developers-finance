@@ -38,10 +38,10 @@ You can find out more about the community [**here**](https://offerzen.gitbook.io
 
 The Programmable Banking community are always finding new ways to solve interesting problems with Programmable Banking – from managing spend on your card to voice-enabled transactions on your account.&#x20;
 
-[Join the Programmable Banking Community ](https://8malmkzgvs8.typeform.com/to/VlKgTtaV?typeform-source=www.google.com)
+
 
 :::info
-Check out our community projects on [**GitLab**](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) and on the [**OfferZen Blog**](https://www.offerzen.com/blog#stq=programmable%20banking%20\&stp=1).
+[Join the Programmable Banking Community](https://8malmkzgvs8.typeform.com/to/VlKgTtaV?typeform-source=www.google.com). Check out our community projects on [**GitLab**](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) and on the [**OfferZen Blog**](https://www.offerzen.com/blog#stq=programmable%20banking%20\&stp=1).
 :::
 
 ### Take a look at our latest posts

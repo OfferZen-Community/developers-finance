@@ -5,6 +5,8 @@ sidebar_position: 2
 ---
 # Investing 101
 
+### What are the investment basics I should know?
+
 <iframe
       width="650"
       height="200"
@@ -16,7 +18,6 @@ sidebar_position: 2
 
 [Ayabonga Cawe ](https://www.linkedin.com/in/ayabonga-cawe-70942746/?originalSubdomain=za)speaks with Investec's [Stephen Silcock](https://www.linkedin.com/in/stephen-silcock-232a64216/?originalSubdomain=za) and [Tebello Rabele](https://www.linkedin.com/in/tebello-rabele-b4101b84/?originalSubdomain=za).
 
-### What are the investment basics I should know?
 
 ### Time in the market versus timing the market
 
@@ -40,7 +41,7 @@ Considering this, it’s crucial to save as much as possible and as early as pos
 
 ### Investment allocation
 
-A diversified investment portfolio is generally split between stocks, bonds, property and cash, the four main asset classes. Each class has its own distinctive properties that almost act as counterbalances to the other, ultimately creating a stable, balanced investment portfolio.
+A diversified investment portfolio is generally split between [stocks, bonds, property and cash, the four main asset classes](https://www.developersfinance.guide/docs/wealth-creation/wealth-creation-assetclasses). Each class has its own distinctive properties that almost act as counterbalances to the other, ultimately creating a stable, balanced investment portfolio.
 
 ### Geographic diversification
 
