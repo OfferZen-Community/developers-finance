@@ -14,7 +14,7 @@ In the UK, the Open Banking movement was driven by the [PSD2 (Revised Payment Se
 In South Africa, Open Banking is not a legal requirement. Investec is leading the way with [Programmable Banking](https://www.investec.com/en_za/banking/programmable-banking.html) for private and business clients.
 
 :::tip
-**Already have an Investec Account?** [Ask your banker to activate you for Programmable Banking ](https://www.investec.com/en_za/banking/programmable-banking.html)
+**Already have an Investec Account?** [Ask your banker to activate you for Programmable Banking ](https://www.investec.com/en_za/banking/programmable-banking.html) Once active, you can find out more about getting started [here](https://developer.investec.com/programmable-banking/#programmable-banking).
 :::
 
 If you have further questions relating to open banking, please submit them [_**here**_](https://8malmkzgvs8.typeform.com/to/oLVWxa8r?) or create and issue on [_**GitHub**_](https://github.com/OfferZen-Community/developers-finance/issues).

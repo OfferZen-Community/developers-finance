@@ -5,6 +5,8 @@ sidebar_position: 3
 ---
 # Asset classes
 
+### What are asset classes?
+
 <iframe
       width="650"
       height="200"
@@ -16,7 +18,6 @@ sidebar_position: 3
 
 [Ayabonga Cawe ](https://www.linkedin.com/in/ayabonga-cawe-70942746/?originalSubdomain=za)speaks with Investec's [Kate Stannard](https://www.linkedin.com/in/kate-stannard-07a64b22/?originalSubdomain=za) and Paul McKeaveney.
 
-### What are asset classes?
 
 ### The building blocks of an investment portfolio
 
