@@ -6,6 +6,8 @@ sidebar_position: 1
 ---
 # 💸 Tax
 
+![banner](pathname:///img/assets/tax_investec.png)
+
 In our quest to figure out what personal finance topics keep developers up at night, we realised that tax questions are high up on the list.
 
 Everyone's tax situation is different, so it’s important to consult a professional, but there are some tax basics that every developer should know.

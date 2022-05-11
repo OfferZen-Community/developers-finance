@@ -6,6 +6,9 @@ sidebar_position: 1
 
 # ✈️ Making the Move Offshore
 
+![banner](pathname:///img/assets/offshore_investec.png)
+
+
 For many South African developers, the global tech marketplace is really attractive: filled with big opportunities, career growth and stronger currencies. There’s also a lot of potential to hack career growth locally, which doesn't make it an easy decision.
 When making the move offshore, be sure to do your planning and keep in mind that every country is different, with specific tax laws, cost of living and residency rules.
 

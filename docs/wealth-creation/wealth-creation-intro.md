@@ -6,6 +6,9 @@ sidebar_position: 1
 
 # 📈 Wealth Creation
 
+![banner](pathname:///img/assets/wealthcreation_investec.png)
+
+
 Wealth creation is the process of building wealth by investing in certain financial products.
 
 Whether you are just starting out in your career as a developer or have been at it for a while, a wealth creation strategy is an important tool in helping you both maintain and increase your wealth based on your financial situation, goals and risk tolerance.

@@ -5,7 +5,6 @@ sidebar_position: 4
 ---
 
 # Tax returns
-![banner](pathname:///img/assets/taxzebbie.png)
 
 ### What should I do to prepare for my tax return?&#x20;
 
