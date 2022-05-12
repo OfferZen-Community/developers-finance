@@ -44,7 +44,7 @@ const config = {
         title: 'Developer Finance Guide',
         logo: {
           alt: 'OfferZen Logo',
-          src: 'img/logo.png',
+          src: 'img/offerZen_logo_black.png',
         },
         items: [
           {
