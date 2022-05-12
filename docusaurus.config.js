@@ -23,12 +23,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/OfferZen-Community/developers-finance',
+          editUrl: 'https://github.com/OfferZen-Community/developers-finance/blob/main',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/OfferZen-Community/developers-finance',
+            'https://github.com/OfferZen-Community/developers-finance/blob/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
