@@ -41,7 +41,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Developer Finance Guide',
+        title: '',
         logo: {
           alt: 'OfferZen Logo',
           src: 'img/offerZen_logo_black.png',
@@ -52,7 +52,7 @@ const config = {
             type: 'doc',
             docId: 'about/about-intro',
             position: 'left',
-            label: 'Get Started',
+            label: 'The Guide',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
