@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'In partnership with Investec and the OfferZen community',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/assets/investecfinancedeveloper.svg').default,
     description: (
       <>
         Get in-depth insights from financial experts at Investec and within the community. 
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Curated by OfferZen and community developers',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/assets/curateddeveloperfinanceguide.svg').default,
     description: (
       <>
         This guide contains carefully curated content on personal finance topics submitted to us by developers. Contribute your topic suggestions to ensure the content remains relevant to you. 
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Built for devs, by devs',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/assets/guidebuiltbydevs.svg').default,
     description: (
       <>
         Use this guide to learn more about personal finance and help to develop it for others by making a contribution.
