@@ -45,9 +45,9 @@ The Programmable Banking community are always finding new ways to solve interest
 :::
 
 ### Take a look at our latest posts
-
-|[How OneCart OneCart Used Programmable Banking for Fraud Detection and Prevention](https://www.offerzen.com/blog/onecart-using-programmable-banking-for-fraud-detection-and-prevention)|![](<//img/assets/onecart.png>)|
+|||
 |--|--|
+|[How OneCart OneCart Used Programmable Banking for Fraud Detection and Prevention](https://www.offerzen.com/blog/onecart-using-programmable-banking-for-fraud-detection-and-prevention)|![](<//img/assets/onecart.png>)|
 |[Track expiring card subscriptions](https://www.offerzen.com/blog/programmable-banking-community-an-easy-way-to-track-your-expiring-subscriptions) |![](<//img/assets/expiringcards.png>)|
 |[How To Save Money While You Run](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-money-while-you-run)|![](<//img/assets/savemoneyrunning.png>)|
 |[How Afican Alliance Automated Expense Allocation to Save Time and Costs ](https://www.offerzen.com/blog/how-african-alliance-automated-expense-allocation-to-save-time-and-costs)|![](<//img//assets/africanalliance.png>)|
