@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Built for devs, by devs',
-    Svg: require('@site/static/img/assets/guidebuiltbydevs.svg').default,
+    Svg: require('@site/static/img/assets/builtbydevs.svg').default,
     description: (
       <>
         Use this guide to learn more about personal finance and help to develop it for others by making a contribution.
