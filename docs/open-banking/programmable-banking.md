@@ -30,6 +30,14 @@ Our core focus as a community is to support each other to unlock the potential o
 
 The community is for individuals with a passion for technology. If you are interested in building on the banking experience and helping ignite other’s imagination, this is the place for you
 
+> **“It's a proper community! Didn't expect that. Thought it was going to be impersonal.”** 
+>
+> Peter Thompson, Community Member
+
+> **“I really enjoyed the demos (at the meetup). This opened up my eyes to a side of software development that I was not previously immersed in."**
+>
+> Beautus Gumede 
+
 You can find out more about the community [**here**](https://offerzen.gitbook.io/programmable-banking-community-wiki/)**.**
 
 ![](https://lh6.googleusercontent.com/MF6nuZcPGPCBPU1zg6Pv\_DVoPu3f29DdN84jLCnCqM-Rh8QBZKLQgkq\_465z3ZQ8wt5LH4l3RFVhIrVOQs8P5XrgRHcgzY47dMb3QwryyrE9p\_lON7nF0O2KqpyoyZJj7BPTyjEK)
