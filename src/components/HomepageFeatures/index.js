@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Maintained by the OfferZen and the developer community',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'In partnership with Investec and the OfferZen community',
+    Svg: require('@site/static/img/assets/investecfinancedeveloper.svg').default,
     description: (
       <>
-        The Developer Finance Guide is an open source guide that contains carefully curated content to help you navigate the world of personal finance. 
+        Get in-depth insights from financial experts at Investec and within the community. 
       </>
     ),
   },
   {
-    title: 'In partnership with Investec, and the OfferZen developer community',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Curated by OfferZen and community developers',
+    Svg: require('@site/static/img/assets/curateddeveloperfinanceguide.svg').default,
     description: (
       <>
-        In-depth insights from financial experts from Investec. We've worked closely with members of the OfferZen developer community to develop the framework for this guide and ensure that the content is valuable and useful. 
+        This guide contains carefully curated content on personal finance topics submitted to us by developers. Contribute your topic suggestions to ensure the content remains relevant to you. 
       </>
     ),
   },
   {
     title: 'Built for devs, by devs',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/assets/builtbydevs.svg').default,
     description: (
       <>
-        Use this guide in your personal capacity and help to develop it for others.
+        Use this guide to learn more about personal finance and help to develop it for others by making a contribution.
       </>
     ),
   },
