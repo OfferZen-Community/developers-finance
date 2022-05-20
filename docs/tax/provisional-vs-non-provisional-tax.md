@@ -8,9 +8,9 @@ sidebar_position: 5
 
 ### Am I a provisional or a non-provisional tax payer?&#x20;
 
-A **non-provisional taxpayer** is a person who earns a salary and make their contributions to SARS via PAYE deducted off their paycheck by their employer. They only have to submit an income tax return (ITR12) for each tax year.
+A **non-provisional taxpayer** is a person who earns a salary and make their contributions to SARS via [PAYE](https://www.developersfinance.guide/docs/glossary-intro#pay-as-you-earn-paye-tax) deducted off their paycheck by their employer. They only have to submit an income tax return (ITR12) for each tax year.
 
-**A provisional taxpayer** is normally a person who earns income other than a salary on which no employees’ tax/PAYE has been deducted. Provisional taxpayers include a person or a trust that earns income which is not remuneration (e.g., rental income), an allowance or an advance. It can also include a person who earns remuneration from an employer that is not registered for employees’ tax.
+**A provisional taxpayer** is normally a person who earns income other than a salary on which no employees’ tax/[PAYE](https://www.developersfinance.guide/docs/glossary-intro#pay-as-you-earn-paye-tax) has been deducted. Provisional taxpayers include a person or a trust that earns income which is not remuneration (e.g., rental income), an allowance or an advance. It can also include a person who earns remuneration from an employer that is not registered for employees’ tax.
 
 The definition of “provisional taxpayer” does contains certain **exemptions**, which could lead to a person not being a provisional tax payer. 
 * If a person's taxable income for the year of assessment doesn't exceed the tax threshold (for 2023, the tax threshold is R91,250 for persons under 65)

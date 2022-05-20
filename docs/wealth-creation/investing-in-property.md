@@ -26,11 +26,11 @@ One of the key factors that makes this class so exciting is the scale of differe
 
 Property is useful as a hedge against inflation, seeing that property portfolios tend to increase their exposure to rentals as inflation rises, feeding into the overall portfolio and increasing dividend yields.
 
-### Listed and unlisted property
+### Listed and [unlisted](https://www.developersfinance.guide/docs/glossary-intro#unlisted-property-funds) property
 
 Property funds listed on the Johannesburg Stock Exchange (JSE) are managed by teams of investment professionals who invest using the advantage of scale and aggregation. It provides investors access to highly competent management that make the tricky investment decisions for you, typically focussing on property in the retail space, including strip malls, smaller shopping centres, offices and industrial spaces.
 
-The two cornerstones of investing are to make a capital return and to make an annual return on the investment, and in property, a significant portion of the return may be in the form of a taxable distribution.
+The two cornerstones of investing are to make a [capital return](https://www.developersfinance.guide/docs/glossary-intro#capital) and to make an [annualised return](https://www.developersfinance.guide/docs/glossary-intro#annualised-return) on the investment, and in property, a significant portion of the return may be in the form of a taxable [distribution] (https://www.developersfinance.guide/docs/glossary-intro#distribution).
 
 ### Portfolio considerations
 
@@ -42,9 +42,9 @@ South Africa has a large listed property sector that is diversified across the p
 
 ### Tax implications
 
-Unlike an investment in equity, where you are paid a dividend and incur a dividend withholding tax, in listed property, an investor is paid a distribution that is fully taxable. An investment structure called a real estate investment trust (REIT) makes it possible to pay shareholders without the corporation or the trust incurring any tax.
+Unlike an investment in equity, where you are paid a dividend and incur a dividend withholding tax, in listed property, an investor is paid a distribution that is fully taxable. An investment structure called a [real estate investment trust (REIT)](https://www.developersfinance.guide/docs/glossary-intro#real-estate-investment-trust-reit) makes it possible to pay shareholders without the corporation or the trust incurring any tax.
 
-REITs are generally split between debt and equity in the financing of property transactions, which magnifies the return that gets passed to shareholders.
+[REITs](https://www.developersfinance.guide/docs/glossary-intro#real-estate-investment-trust-reit) are generally split between debt and equity in the financing of property transactions, which magnifies the return that gets passed to shareholders.
 
 ### Location
 
@@ -62,7 +62,7 @@ Property investment is a diverse and large market that requires expertise to nav
 
 * Property is one of the oldest asset classes and will always be relevant&#x20;
 * It is important to divorce living in a property for shelter and security from investing in property
-* It is cheaper to invest in listed property, such as retail and office space (REIT) and there’s no exit risk, as when buying a property&#x20;
+* It is cheaper to invest in listed property, such as retail and office space (REIT) and there’s no [exit risk](https://www.developersfinance.guide/docs/glossary-intro#exit-risk), as when buying a property&#x20;
 * Diversification in terms of location and subsections is important&#x20;
-* The main risks are liquidity, inflation, location and capital flight&#x20;
-* Property is not a cornerstone of a financial portfolio, but it can help with diversification
+* The main risks are liquidity, inflation, location and [capital flight](https://www.developersfinance.guide/docs/glossary-intro#capital-flight)&#x20;
+* Property is not a cornerstone of a financial portfolio, but it can help with diversification.

@@ -44,7 +44,7 @@ Many South Africans use trusts to make distributions to family in the US. But It
 * If you’re still a South African Reserve Bank tax resident, you can use your R10 million Reserve Bank allowance&#x20;
 * If you want to access more than that, you can go through a formal Reserve Bank process and place your interest in the trust on record. But the funding of the trust is important - whether it's self-funded or third-party funded - as you may find some of your funds stuck in South Africa.
 
-Stanley says that the type of trust also has tax implications in the US. He distinguishes between **grantor trusts** (where the person who set up the trust retains some control) and **non-grantor trusts** (where they have given up control). A US resident beneficiary of a grantor trust can receive distributions, which are reportable but not taxable, unless they are US situs (located in the US) property. With a non-grantor trust, regular income is taxed at about 40%, but accumulated income attracts a throwback (aka clawback) tax of up to 100%.
+Stanley says that the type of trust also has tax implications in the US. He distinguishes between **grantor trusts** (where the person who set up the trust retains some control) and **non-grantor trusts** (where they have given up control). A US resident beneficiary of a grantor trust can receive distributions, which are reportable but not taxable, unless they are US situs (located in the US) property. With a non-grantor trust, regular income is taxed at about 40%, but can be taxed at up to 100%.
 
 ### Residency and estate and gift taxes
 
@@ -60,4 +60,4 @@ For estate and gift taxes in the US, residency is determined not through the sub
 
 * US citizens and residents currently get an exemption of up to **$11.7 million**&#x20;
 * Non-residents’ exemption is only **$600 000**. US citizens are exempt from tax on spousal bequests&#x20;
-* Non-US citizens will be taxed on spousal bequests unless the assets are placed in a particular type of trust called a Qualified domestic trust (QDOT).
+* Non-US citizens will be taxed on spousal bequests unless the assets are placed in a particular type of trust called a [Qualified domestic trust (QDOT)](https://www.developersfinance.guide/docsglossary-intro#qualifed-domestic-trust-qdot).

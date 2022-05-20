@@ -36,10 +36,6 @@ If there is a capital loss (the asset is sold for less than its original cost) t
 The large-scale exit of capital from a country or group of countries, usually because of political or economic instability, or distrust in that financial system (sometimes, just because investors believe that their money has a better chance of growing if invested elsewhere). 
 
 
-### Clawback tax
-A clawback is an arrangement where money that has already been distributed is given back. For example, an employee who receives a relocation benefit to take up a job in a different city might have a clawback provision in their contract stating that a portion of that relocation budget must be returned to the company if the employee quits within two years. Clawback tax refers to how such situations affect an individual’s or company’s tax bill.
-
-
 ### Distribution
 A payout from a financial asset to its beneficiary or owner, usually as cash. Distributions often refer to income paid out from a retirement fund, or to dividends paid out to shareholders or mutual fund investors. 
 

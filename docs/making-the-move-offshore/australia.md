@@ -50,7 +50,7 @@ This happens in one of two ways:&#x20;
 * When the company is incorporated in Australia&#x20;
 * If it’s not incorporated in Australia, but it carries out its business in Australia or its central management and control is there. If, for example, a director of a “foreign” company attends board meetings in Australia and company decisions are taken in Australia, the company will most likely be considered an Australian tax resident.
 
-### What about trusts?&#x20;
+### What about [trusts](https://www.developersfinance.guide/docs/glossary-intro#trust)?&#x20;
 
 Australia taxes foreign trusts aggressively, warns Elizabeth. Three things will trigger tax consequences for a trust in Australia:&#x20;
 
