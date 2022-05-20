@@ -15,8 +15,10 @@ If a person is taxed on the arising basis, they pay tax on all their worldwide i
  
 Say you’re a South African citizen now living in the UK, and paying your taxes there, but you’re still earning some money into a South African bank account. If you pay your taxes on an arising basis, you’ll likely include that South African income in your UK tax calculations, even if you don’t convert it to pounds or move it into a UK bank account. There are some exceptions though, so check with a tax specialist.
 
-
 ### Annual return 
+
+A measure of the average yearly growth or loss of an investment, shown as a percentage. It can be calculated for an investment made over multiple years, or just for a few months, and returns a normalised annual average that also takes compound interest into account. It’s a useful way to compare two investments to each other, even if you invested over different lengths of time.
+
 
 ### Annual reccuring revenue
 
