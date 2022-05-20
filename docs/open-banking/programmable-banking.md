@@ -30,24 +30,42 @@ Our core focus as a community is to support each other to unlock the potential o
 
 The community is for individuals with a passion for technology. If you are interested in building on the banking experience and helping ignite other’s imagination, this is the place for you
 
+> **“It's a proper community! Didn't expect that. Thought it was going to be impersonal.”** 
+>
+> Peter Thompson, Community Member
+
+> **“I really enjoyed the demos (at the meetup). This opened up my eyes to a side of software development that I was not previously immersed in."**
+>
+> Beautus Gumede 
+
 You can find out more about the community [**here**](https://offerzen.gitbook.io/programmable-banking-community-wiki/)**.**
 
 ![](https://lh6.googleusercontent.com/MF6nuZcPGPCBPU1zg6Pv\_DVoPu3f29DdN84jLCnCqM-Rh8QBZKLQgkq\_465z3ZQ8wt5LH4l3RFVhIrVOQs8P5XrgRHcgzY47dMb3QwryyrE9p\_lON7nF0O2KqpyoyZJj7BPTyjEK)
 
-# Programmable banking in action
+### Programmable banking in action
 
 The Programmable Banking community are always finding new ways to solve interesting problems with Programmable Banking – from managing spend on your card to voice-enabled transactions on your account.&#x20;
 
-[Join the Programmable Banking Community ](https://8malmkzgvs8.typeform.com/to/VlKgTtaV?typeform-source=www.google.com)
+
 
 :::info
-Check out our community projects on [**GitLab**](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) and on the [**OfferZen Blog**](https://www.offerzen.com/blog#stq=programmable%20banking%20\&stp=1).
+[Join the Programmable Banking Community](https://8malmkzgvs8.typeform.com/to/VlKgTtaV?typeform-source=www.google.com). Check out our community projects on [**GitLab**](https://gitlab.com/offerzen-community/investec-programmable-banking/command-center#open-source-projects) and on the [**OfferZen Blog**](https://www.offerzen.com/blog#stq=programmable%20banking%20\&stp=1).
 :::
 
-### Take a look at our latest posts:
+### Take a look at our latest posts
+|||
+|--|--|
+|[How OneCart OneCart Used Programmable Banking for Fraud Detection and Prevention](https://www.offerzen.com/blog/onecart-using-programmable-banking-for-fraud-detection-and-prevention)|![](<//img/assets/onecart.png>)|
+|[Track expiring card subscriptions](https://www.offerzen.com/blog/programmable-banking-community-an-easy-way-to-track-your-expiring-subscriptions) |![](<//img/assets/expiringcards.png>)|
+|[How To Save Money While You Run](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-money-while-you-run)|![](<//img/assets/savemoneyrunning.png>)|
+|[How Afican Alliance Automated Expense Allocation to Save Time and Costs ](https://www.offerzen.com/blog/how-african-alliance-automated-expense-allocation-to-save-time-and-costs)|![](<//img//assets/africanalliance.png>)|
+| [Buying Electricity with Bitcoin: The “LightningWatts” Proof of Concept](https://www.offerzen.com/blog/buying-electricity-with-bitcoin-the-lightningwatts-proof-of-concept)|![](<//img/assets/lighteningwatts.png>)|
+|[How We Created a Proof of Concept in a Day](https://www.offerzen.com/blog/how-we-created-a-proof-of-concept-in-a-day)|![](<//img/assets/poc.png>)|
+|[How To Save On Your Mortgage Interest](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-on-your-mortgage-interest)|![](<//img/assets/savemortageinterest.png>)|
+|[A Simpler Way to Plan & Manage your Businesses Taxes](https://www.offerzen.com/blog/programmable-banking-community-a-simpler-way-to-plan-manage-your-businesses-taxes)|![](<//img/assets/businesstaxes.png>)|
+|[Easily reward community contributions](https://www.offerzen.com/blog/programmable-banking-project-transparent-rewards-for-open-source-contributors#stq=programmable%20card%20renewal\&stp=1)|![](//img/assets/communitycontributions.png)|
+|[How To Easily Automate & Analyse Your Personal Finances](https://www.offerzen.com/blog/programmable-banking-community-how-to-easily-automate-analyse-your-personal-finances)|![](<//img/assets/russellsolution.png>)|
+|[How To Save On Interest When Paying Off Debt](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-on-interest-when-paying-off-debt)|![](<//img/assets/saveinterstpayoffdebt.png>)|
+|[A Simpler Way to Plan & Manage your Businesses Taxes](https://www.offerzen.com/blog/programmable-banking-community-a-simpler-way-to-plan-manage-your-businesses-taxes)|![](<//img/assets/businesstaxes.png>)|
 
-| [Track expiring card subscriptions](https://www.offerzen.com/blog/programmable-banking-community-an-easy-way-to-track-your-expiring-subscriptions)                                            | ![](<//img/assets/image6.png>) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [Easily reward community contributions](https://www.offerzen.com/blog/programmable-banking-project-transparent-rewards-for-open-source-contributors#stq=programmable%20card%20renewal\&stp=1) | ![](//img/assets/image.png)       |
-| [How Afican Alliance Automated Expense Allocation to Save Time and Costs ](https://www.offerzen.com/blog/how-african-alliance-automated-expense-allocation-to-save-time-and-costs)            | ![](<//img//assets/image4.png>) |
-| [How OneCart OneCart Used Programmable Banking for Fraud Detection and Prevention](https://www.offerzen.com/blog/onecart-using-programmable-banking-for-fraud-detection-and-prevention)       | ![](<//img//assets/image2.png>) |
+
