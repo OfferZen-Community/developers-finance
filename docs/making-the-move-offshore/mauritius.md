@@ -32,7 +32,7 @@ Food, property and cars in Mauritius are expensive. In addition, expats are trea
 
 Mauritius is not the low-tax jurisdiction it once was. It is highly regulated, participating in both the **Common Reporting Standards** and **the Foreign Account Tax Compliance Act.**
 
-The personal tax rate used to be an enviable 15%, but expats are now subject to a 25% solidarity levy on a salary of more than Rs3 million (about R1.2 million). You also pay 3% of your salary to a pension scheme that only citizens can access. On the plus side, you don’t pay capital gains tax (CGT), donations tax or estate duty tax.
+The personal tax rate used to be an enviable 15%, but expats are now subject to a 25% solidarity levy on a salary of more than Rs3 million (about R1.2 million). You also pay 3% of your salary to a pension scheme that only citizens can access. On the plus side, you don’t pay [capital gains tax (CGT)](https://www.developersfinance.guide/docs/glossary-intro#captial-gains-tax), donations tax or estate duty tax.
 
 ### Applying to work and live in Mauritius
 
@@ -66,9 +66,9 @@ The permanence of your relocation is a crucial factor in taxation and exchange c
 
 There’s no estate duty, but Mauritian law does reserve between 50% and 75% of the estate for the children of the deceased, and no other provisions in the will can encroach on this portion.
 
-To avoid forced heirship, you can buy the property in trust. A trust can be administered in Mauritius, but still established using, for example, Guernsey law.
+To avoid forced heirship, you can buy the property in trust. A trust can be administered in Mauritius, but still established using, for example, [Guernsey law](https://www.developersfinance.guide/docs/glossary-intro#guernsey-law).
 
-Your heirs in SA will avoid estate duty and capital gains tax and get the benefit of permanent residency.
+Your heirs in SA will avoid estate duty and (capital gains tax)[https://www.developersfinance.guide/docs/glossary-intro#captial-gains-tax] and get the benefit of permanent residency.
 
 The trust also gets around the fact that Mauritian law does not recognise a joint or mutual will nor allow heirs as appointed executors.
 

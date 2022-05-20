@@ -12,13 +12,13 @@ sidebar_position: 2
 
 Not every new business should raise venture capital (VC) funding.
 
-Venture capitalists only make money when they exit the business. So if you don’t want to sell your business in 10 years and you don’t see an inital public offering (IPO) in your 10 year horizon then maybe venture capital funding isn’t for you.
+Venture capitalists only make money when they exit the business. So if you don’t want to sell your business in 10 years and you don’t see an [inital public offering (IPO)](https://www.developersfinance.guide/docs/glossary-intro#initial-public-offering-ipo) in your 10 year horizon then maybe venture capital funding isn’t for you.
 
 First of all, decide if you’re a startup or a new business. My definition of a startup is a high growth business. Paul Graham has a great definition below of a startup.
 
 > A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth. Everything else we associate with startups follows from growth.
 
-Venture capitalists want to invest in businesses that they believe will grow fast. If you want a seed valuation of $5m you are implicitly saying that you can see a time in the next 10 years when your business will be worth $100m. At a 5x revenue multiple that means you think you have a good shot of making $20m in revenue in 10 years time.
+Venture capitalists want to invest in businesses that they believe will grow fast. If you want a [seed](https://www.developersfinance.guide/docs/glossary-intro#seed-stage) [valuation](https://www.developersfinance.guide/docs/glossary-intro#valuation) of $5m you are implicitly saying that you can see a time in the next 10 years when your business will be worth $100m. At a 5x [revenue multiple](https://www.developersfinance.guide/docs/glossary-intro#revenue-multiple) that means you think you have a good shot of making $20m in revenue in 10 years time.
 
 If this sounds like too much pressure to grow then consider looking for small business funding, not VC funding.
 
@@ -28,7 +28,7 @@ Startups raise money because they need money to continue operating or to expand 
 
 The best fundraises have **explicit, credible target milestones**. The credibility of your milestones rests on the experiments your startup has already run or the success that the founders have already experienced.&#x20;
 
-The following message is explicit and credible “We are raising $1m to expand our client base to include the Middle East. Our current revenue is $1m annual recurring revenue (ARR) growing at 100% per annum in Africa.”
+The following message is explicit and credible “We are raising $1m to expand our client base to include the Middle East. Our current revenue is $1m [annual recurring revenue (ARR)](https://www.developersfinance.guide/docs/glossary-intro#annual-reccuring-revenue) growing at 100% per annum in Africa.”
 
 ## When is a good time to fundraise?&#x20;
 

@@ -40,5 +40,5 @@ When investing offshore, the rule of thumb is to be exposed to asset classes tha
 
 SA is a commodity-based economy. These markets perform in certain cycles but they can also underperform, which leads to further volatility. When investing offshore, you don’t want to replicate the South African investment climate, but rather invest where there’s opportunity.
 
-Don’t try and time the currency fluctuations, as it’s unlikely that you’ll be able to accurately predict what’s going to happen in the market, particularly in the time of crises. Diversifying your portfolio will mitigate against these drawdown risks for SA investors.
+Don’t try and time the currency fluctuations, as it’s unlikely that you’ll be able to accurately predict what’s going to happen in the market, particularly in the time of crises. Diversifying your portfolio will mitigate against these [drawdown risks](https://www.developersfinance.guide/docs/glossary-intro#drawdown) for SA investors.
 
