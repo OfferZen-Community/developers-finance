@@ -1,37 +1,37 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The Developer Finance Guide',
-  tagline: 'A curated finance guide brought to you by OfferZen, in partnership with Investec',
-  url: 'https://www.developersfinance.guide',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'offerzen', // Usually your GitHub org/user name.
-  projectName: 'Developers Finance', // Usually your repo name.
+  title: "The Developer Finance Guide",
+  tagline:
+    "A curated finance guide brought to you by OfferZen, in partnership with Investec",
+  url: "https://www.developersfinance.guide",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
+  organizationName: "offerzen", // Usually your GitHub org/user name.
+  projectName: "Developers Finance", // Usually your repo name.
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/OfferZen-Community/developers-finance',
+          sidebarPath: require.resolve("./sidebars.js"),
+          editUrl: "https://github.com/OfferZen-Community/developers-finance",
         },
         blog: {
           showReadingTime: true,
-          editUrl:
-            'https://github.com/OfferZen-Community/developers-finance',
+          editUrl: "https://github.com/OfferZen-Community/developers-finance",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -41,65 +41,66 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Developer Finance Guide',
+        title: "Developer Finance Guide",
         logo: {
-          alt: 'OfferZen Logo',
-          src: 'img/logo.png',
+          alt: "OfferZen Logo",
+          src: "img/logo.png",
         },
         items: [
           {
-            type: 'doc',
-            docId: 'about/about-intro',
-            position: 'left',
-            label: 'The Guide',
+            type: "doc",
+            docId: "about/about-intro",
+            position: "left",
+            label: "The Guide",
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/OfferZen-Community/developers-finance',
-            label: 'GitHub',
-            position: 'right',
+            to: "https://github.com/OfferZen-Community/developers-finance",
+            label: "GitHub",
+            className: "header-github-link",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Get Involved',
+            title: "Get Involved",
             items: [
               {
-                label: 'Contribute',
-                href: 'https://github.com/OfferZen-Community/developers-finance',
+                label: "Contribute",
+                href: "https://github.com/OfferZen-Community/developers-finance",
               },
               {
-                label: 'Make a suggestion',
-                href: 'https://8malmkzgvs8.typeform.com/to/oLVWxa8r?',
+                label: "Make a suggestion",
+                href: "https://8malmkzgvs8.typeform.com/to/oLVWxa8r?",
               },
             ],
           },
           {
-            title: 'Community',
+            title: "Community",
             items: [
               {
-                label: 'OfferZen Community',
-                href: 'https://www.offerzen.com/community',
+                label: "OfferZen Community",
+                href: "https://www.offerzen.com/community",
               },
               {
-                label: 'Sign Up For Programmable Banking',
-                href: 'https://www.investec.com/en_za/banking/programmable-banking.html',
+                label: "Sign Up For Programmable Banking",
+                href: "https://www.investec.com/en_za/banking/programmable-banking.html",
               },
             ],
           },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
-                label: 'Blog',
-                href: 'https://www.offerzen.com/blog',
+                label: "Blog",
+                href: "https://www.offerzen.com/blog",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/OfferZen-Community/developers-finance',
+                label: "GitHub",
+                href: "https://github.com/OfferZen-Community/developers-finance",
               },
             ],
           },
