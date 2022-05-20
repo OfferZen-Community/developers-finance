@@ -56,8 +56,9 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: "https://github.com/OfferZen-Community/developers-finance",
+            to: "https://github.com/OfferZen-Community/developers-finance",
             label: "GitHub",
+            className: "header-github-link",
             position: "right",
           },
         ],
