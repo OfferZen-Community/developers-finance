@@ -17,7 +17,7 @@ sidebar_position: 2
       allowfullscreen
 ></iframe>
 
-[Nozipho Tshabalal](https://www.linkedin.com/in/noziphotshabalala/?originalSubdomain=za) speaks with Investec's [Elizabeth Fick](https://www.linkedin.com/in/elizabeth-fick-727a25a1/?originalSubdomain=za) and [Jonathan Ortner](https://www.linkedin.com/in/jonathan-ortner-99b52334/), partner at Arnold Block and Leibner.
+[Nozipho Tshabalal](https://www.linkedin.com/in/noziphotshabalala/?originalSubdomain=za) speaks with Investec's [Elizabeth Fick](https://www.linkedin.com/in/elizabeth-fick-727a25a1/?originalSubdomain=za) and [Jonathan Ortner](https://www.linkedin.com/in/jonathan-ortner-99b52334/), partner at [Arnold Block and Leibner](https://www.abl.com.au/).
 
 
 [Elizabeth Fick](https://www.linkedin.com/in/elizabeth-fick-727a25a1/?originalSubdomain=za), Investec’s joint head of tax and fiduciary, uses two words to describe the tax implications for a South African moving to or working in Australia: **tricky** and **complicated.**&#x20;
@@ -26,7 +26,7 @@ Australia is a high tax jurisdiction, she warns, and if you don’t plan compreh
 
 ### How will Australia’s domestic tax law affect me as an individual?&#x20;
 
-[Jonathan Ortner](https://www.linkedin.com/in/jonathan-ortner-99b52334/), a partner at Arnold Bloch and Leibner, a legal and advisory firm in Australia, explains that two key concepts determine tax in Australia: **source** and **residency**.&#x20;
+[Jonathan Ortner](https://www.linkedin.com/in/jonathan-ortner-99b52334/), a partner at [Arnold Block and Leibner](https://www.abl.com.au/), a legal and advisory firm in Australia, explains that two key concepts determine tax in Australia: **source** and **residency**.&#x20;
 
 Generally, an Australian tax resident is taxed on worldwide income. So, if you have a rental property in SA and Australia generating income, you will be taxed on both incomes. A non-resident, though, will only be taxed on Australian-sourced income. How you determine residency status is the tricky part as the tests for individuals can be highly subjective, says Jonathan.&#x20;
 
@@ -76,6 +76,6 @@ In SA the distribution will attract a distribution tax or a 20% gift tax. Austra
 
 ### Conclusions&#x20;
 
-* SA-Australian tax law is very complex&#x20;
-* If you plan properly before leaving for Australia you might be able to avoid some pitfalls.
+* SA-Australian tax law is very complex
+* If you plan properly before leaving for Australia you might be able to avoid some pitfalls
 * Document all your advice and prepare as if you’re going to be audited.

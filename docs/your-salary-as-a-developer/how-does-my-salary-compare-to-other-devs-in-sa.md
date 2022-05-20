@@ -9,6 +9,7 @@ sidebar_position: 2
 
 ### How does my salary compare to other devs in SA?
 
+![](<//img/assets/developersalary2022.png>)
 
 The graph above shows the average salaries of South African developers across seniority levels in 2022. 
 That said, average salaries are single data points and only one part of a bigger story: Many developers may earn significantly more or significantly less and averages should not be used to estimate what your actual salary will or should be.

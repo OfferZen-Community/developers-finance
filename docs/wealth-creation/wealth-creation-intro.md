@@ -6,7 +6,8 @@ sidebar_position: 1
 
 # 📈 Wealth Creation
 
-![banner](pathname:///img/assets/wealthcreation.png)
+![banner](pathname:///img/assets/wealthcreation_investec.png)
+
 
 Wealth creation is the process of building wealth by investing in certain financial products.
 

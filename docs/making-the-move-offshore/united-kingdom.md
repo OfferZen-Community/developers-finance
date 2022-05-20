@@ -16,10 +16,10 @@ sidebar_position: 4
       allowfullscreen
 ></iframe>
 
-[Nozipho Tshabalal](https://www.linkedin.com/in/noziphotshabalala/?originalSubdomain=za) speaks with Investec's [Elizabeth Fick](https://www.linkedin.com/in/elizabeth-fick-727a25a1/?originalSubdomain=za) and [Catherine de Maid](https://uk.linkedin.com/in/catherine-de-maid-4876381a) from Burges Salmon in the UK.
+[Nozipho Tshabalal](https://www.linkedin.com/in/noziphotshabalala/?originalSubdomain=za) speaks with Investec's [Elizabeth Fick](https://www.linkedin.com/in/elizabeth-fick-727a25a1/?originalSubdomain=za) and [Catherine de Maid](https://uk.linkedin.com/in/catherine-de-maid-4876381a) from [Burges Salmon](https://www.burges-salmon.com/) in the UK.
 
 
-More and more South Africans are sending assets offshore to the UK, investing or basing themselves there, says [Elizabeth Fick](https://www.linkedin.com/in/elizabeth-fick-727a25a1/?originalSubdomain=za), joint-head of tax and fiduciary at Investec. But there are a number of pitfalls and benefits, which she and [Catherine de Maid](https://uk.linkedin.com/in/catherine-de-maid-4876381a), a partner at Burges Salmon in Bristol, unpack.
+More and more South Africans are sending assets offshore to the UK, investing or basing themselves there, says [Elizabeth Fick](https://www.linkedin.com/in/elizabeth-fick-727a25a1/?originalSubdomain=za), joint-head of tax and fiduciary at Investec. But there are a number of pitfalls and benefits, which she and [Catherine de Maid](https://uk.linkedin.com/in/catherine-de-maid-4876381a), a partner at [Burges Salmon](https://www.burges-salmon.com/) in Bristol, unpack.
 
 ### Difference between residence and domicile&#x20;
 

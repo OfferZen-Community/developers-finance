@@ -41,10 +41,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Developer Finance Guide",
+        title: "",
         logo: {
           alt: "OfferZen Logo",
-          src: "img/logo.png",
+          src: "img/offerZen_logo_black.png",
+          srcDark: "img/offerZen_logo_white.png",
         },
         items: [
           {
@@ -116,6 +117,14 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  plugins: [
+    [
+      require.resolve("docusaurus-gtm-plugin"),
+      {
+        id: "GTM-W3VWK67", // GTM Container ID
+      },
+    ],
+  ],
 };
 
 module.exports = config;
