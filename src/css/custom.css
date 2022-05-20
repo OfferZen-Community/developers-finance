@@ -4,6 +4,17 @@
  * work well for content-centric websites.
  */
 
+ @font-face {
+  font-family: 'ProximaNovaRegular';
+  src: url('/fonts/ProximaNova/ProximaNova-Regular.woff2') format('woff2'),
+      url('/fonts/ProximaNova/ProximaNova-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #243e6d;
@@ -14,6 +25,7 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
+  --ifm-font-family-base: 'ProximaNovaRegular';
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
