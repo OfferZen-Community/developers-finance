@@ -37,6 +37,9 @@
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
+/*Dark mode header colours*/
+  --ifm-heading-color: #FFFFFF;
+  --ifm-font-color-base-inverse: #FFFFFF;
 }
 
 .docusaurus-highlight-code-line {
