@@ -18,6 +18,10 @@ You can build your own rules and limits using securely hosted Javascript cloud f
 
 ### Programmable Banking Community&#x20;
 
+:::info
+You can find out more about the community [**here**](https://offerzen.gitbook.io/programmable-banking-community-wiki/)**.**
+:::
+
 OfferZen and Investec are working with the Programmable Banking community to enable developers to access the world of banking. The community is a space for sharing ideas and connecting with other developers interested in building out new fintech solutions.&#x20;
 
 Writing code alone is not fun, building something new is even harder! Discovering and then refining those use cases and code snippets (don’t kid yourself, we all use code snippets!) is the other part; and this is rarely effective when done in isolation.
@@ -37,8 +41,6 @@ The community is for individuals with a passion for technology. If you are inter
 > **“I really enjoyed the demos (at the meetup). This opened up my eyes to a side of software development that I was not previously immersed in."**
 >
 > Beautus Gumede 
-
-You can find out more about the community [**here**](https://offerzen.gitbook.io/programmable-banking-community-wiki/)**.**
 
 ![](https://lh6.googleusercontent.com/MF6nuZcPGPCBPU1zg6Pv\_DVoPu3f29DdN84jLCnCqM-Rh8QBZKLQgkq\_465z3ZQ8wt5LH4l3RFVhIrVOQs8P5XrgRHcgzY47dMb3QwryyrE9p\_lON7nF0O2KqpyoyZJj7BPTyjEK)
 
