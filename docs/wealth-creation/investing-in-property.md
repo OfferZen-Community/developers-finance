@@ -24,8 +24,6 @@ Property is likely the most widely recognised asset class but it’s crucial to 
 
 One of the key factors that makes this class so exciting is the scale of differentiation, as investors have a choice between residential property, commercial and industrial, to name a few.
 
-Residential property is unique in that it is one of the few asset classes that can be easily invested in using leverage. With leverage, you are borrowing money from the bank to purchase a larger property than you would otherwise be able to afford with cash. This brings with it the risk of defaulting on your loan and losing the property if you fail to make interest payments. Generally speaking, home loans are the most commonly accessed source of investment leverage, and often times are even [supported by governments](https://www.westerncape.gov.za/service/finance-linked-individual-subsidy-programme-flisp) in a bid to support home ownership.
-
 Property is useful as a hedge against inflation, seeing that property portfolios tend to increase their exposure to rentals as inflation rises, feeding into the overall portfolio and increasing dividend yields.
 
 ### Listed and [unlisted](https://www.developersfinance.guide/docs/glossary-intro#unlisted-property-funds) property
@@ -59,6 +57,14 @@ A residential property is a long-term investment that requires considerable time
 ### Valuation
 
 Property investment is a diverse and large market that requires expertise to navigate. For investors new to this market, it’s easier to invest in a listed structure where an experienced team can make the decisions on your behalf. Listed property also sidesteps the charges and tenant risks that come with owning a physical property.&#x20;
+
+### Leverage
+
+Residential property is unique in that it is one of the few asset classes that is commonly invested in using leverage, which is an important concept to consider as part of your investing strategy. 
+
+With leverage, you are borrowing money from the bank to purchase a larger property than you would otherwise be able to afford with cash. This increases your investment performance if the value of the property increases, but also brings with it the risk of defaulting on your loan and losing the property if you fail to make interest payments. Another risk is "negative equity" if the property loses value, leaving you owing more than the value of your property. 
+
+Generally speaking, home loans are the most commonly accessed source of investment leverage, and often times are even [supported by governments](https://www.westerncape.gov.za/service/finance-linked-individual-subsidy-programme-flisp) in a bid to support home ownership.
 
 ### In short
 
