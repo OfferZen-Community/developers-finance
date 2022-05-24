@@ -30,7 +30,7 @@ Property is useful as a hedge against inflation, seeing that property portfolios
 
 Property funds listed on the Johannesburg Stock Exchange (JSE) are managed by teams of investment professionals who invest using the advantage of scale and aggregation. It provides investors access to highly competent management that make the tricky investment decisions for you, typically focussing on property in the retail space, including strip malls, smaller shopping centres, offices and industrial spaces.
 
-The two cornerstones of investing are to make a [capital return](https://www.developersfinance.guide/docs/glossary-intro#capital) and to make an [annualised return](https://www.developersfinance.guide/docs/glossary-intro#annualised-return) on the investment, and in property, a significant portion of the return may be in the form of a taxable [distribution] (https://www.developersfinance.guide/docs/glossary-intro#distribution).
+The two cornerstones of investing are to make a [capital return](https://www.developersfinance.guide/docs/glossary-intro#capital) and to make an [annualised return](https://www.developersfinance.guide/docs/glossary-intro#annualised-return) on the investment, and in property, a significant portion of the return may be in the form of a taxable [distribution](https://www.developersfinance.guide/docs/glossary-intro#distribution).
 
 ### Portfolio considerations
 
