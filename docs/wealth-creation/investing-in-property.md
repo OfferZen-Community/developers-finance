@@ -24,6 +24,8 @@ Property is likely the most widely recognised asset class but it’s crucial to 
 
 One of the key factors that makes this class so exciting is the scale of differentiation, as investors have a choice between residential property, commercial and industrial, to name a few.
 
+Residential property is unique in that it is one of the few asset classes that can be easily invested in using leverage. With leverage, you are borrowing money from the bank to purchase a larger property than you would otherwise be able to afford with cash. This brings with it the risk of defaulting on your loan and losing the property if you fail to make interest payments. Generally speaking, home loans are the most commonly accessed source of investment leverage, and often times are even [supported by governments](https://www.westerncape.gov.za/service/finance-linked-individual-subsidy-programme-flisp) in a bid to support home ownership.
+
 Property is useful as a hedge against inflation, seeing that property portfolios tend to increase their exposure to rentals as inflation rises, feeding into the overall portfolio and increasing dividend yields.
 
 ### Listed and [unlisted](https://www.developersfinance.guide/docs/glossary-intro#unlisted-property-funds) property
@@ -66,3 +68,4 @@ Property investment is a diverse and large market that requires expertise to nav
 * Diversification in terms of location and subsections is important&#x20;
 * The main risks are liquidity, inflation, location and [capital flight](https://www.developersfinance.guide/docs/glossary-intro#capital-flight)&#x20;
 * Property is not a cornerstone of a financial portfolio, but it can help with diversification.
+* Residential property is likely to be the only investment you can make using leverage
