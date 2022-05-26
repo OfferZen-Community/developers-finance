@@ -58,6 +58,14 @@ A residential property is a long-term investment that requires considerable time
 
 Property investment is a diverse and large market that requires expertise to navigate. For investors new to this market, it’s easier to invest in a listed structure where an experienced team can make the decisions on your behalf. Listed property also sidesteps the charges and tenant risks that come with owning a physical property.&#x20;
 
+### Leverage
+
+Residential property is unique in that it is one of the few asset classes that is commonly invested in using leverage, which is an important concept to consider as part of your investing strategy. 
+
+With leverage, you are borrowing money from the bank to purchase a larger property than you would otherwise be able to afford with cash. This increases your investment performance if the value of the property increases, but also brings with it the risk of defaulting on your loan and losing the property if you fail to make interest payments. Another risk is "negative equity" if the property loses value, leaving you owing more than the value of your property. 
+
+Generally speaking, home loans are the most commonly accessed source of investment leverage, and often times are even [supported by governments](https://www.westerncape.gov.za/service/finance-linked-individual-subsidy-programme-flisp) in a bid to support home ownership.
+
 ### In short
 
 * Property is one of the oldest asset classes and will always be relevant&#x20;
@@ -66,3 +74,4 @@ Property investment is a diverse and large market that requires expertise to nav
 * Diversification in terms of location and subsections is important&#x20;
 * The main risks are liquidity, inflation, location and [capital flight](https://www.developersfinance.guide/docs/glossary-intro#capital-flight)&#x20;
 * Property is not a cornerstone of a financial portfolio, but it can help with diversification.
+* Residential property is likely to be the only investment you can make using leverage
