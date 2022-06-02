@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'In partnership with Investec and the OfferZen community',
-    Svg: require('@site/static/img/assets/investecfinancedeveloper.svg').default,
+    Svg: require('@site/static/img/assets/investecfinanceguidedeveloper.svg').default,
     description: (
       <>
         Get in-depth insights from financial experts at Investec and within the community. 
