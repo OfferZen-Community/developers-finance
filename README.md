@@ -27,7 +27,7 @@ The team behind this guide haven't managed an open source repo before, so we nee
 * ❓**Submit any finance questions that you have**
 Looking at the guide and not finding what you're looking for? Submit your questions [here](https://8malmkzgvs8.typeform.com/to/oLVWxa8r?) or log and issue on the repo for us.
 
-* 👩‍💻**Make a contrbution on GitHub** 
+* 👩‍💻**Make a contribution on GitHub** 
 Want to add contribution guidelines? Want to include website functionality that you think is missing? Think you can help us with some of the logged issue? Go for it!  
 
 * 💬**Start a discussion**   
