@@ -36,8 +36,8 @@ In many cases, passive funds outperform active funds in the long run, but there 
 But selecting the winning manager is very a difficult thing to do and is akin to picking the winning stocks. The S&P Dow Jones Releases the [SPIVA Scorecard](https://www.spglobal.com/spdji/en/research-insights/spiva/#south-africa) yearly. In this report they compare performance of active managers against their indexes. 
 
 Wealth creation is long term game so on the SPIVA Scorecard for 10 year+:
-- Global Equity only 3.33% of fund managers out performed the index and on the 
-- Local Equity only 4.58% of fund managers perform the market. 
+- Global Equity only 3.33% of fund managers outperforms the index and on the 
+- Local Equity only 4.58% of fund managers outperforms the index. 
 
 If you also take into account its not always the same Fund managers that beats the market as they shift in the rankings every year, it makes choosing a winning active manager very difficult.
 
