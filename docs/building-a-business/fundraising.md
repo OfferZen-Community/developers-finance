@@ -12,7 +12,7 @@ sidebar_position: 2
 
 Not every new business should raise venture capital (VC) funding.
 
-Venture capitalists only make money when they exit the business. So if you don’t want to sell your business in 10 years and you don’t see an [inital public offering (IPO)](https://www.developersfinance.guide/docs/glossary-intro#initial-public-offering-ipo) in your 10 year horizon then maybe venture capital funding isn’t for you.
+Venture capitalists only make money when they exit the business. So if you don’t want to sell your business in 10 years and you don’t see an [initial public offering (IPO)](https://www.developersfinance.guide/docs/glossary-intro#initial-public-offering-ipo) in your 10 year horizon then maybe venture capital funding isn’t for you.
 
 First of all, decide if you’re a startup or a new business. My definition of a startup is a high growth business. Paul Graham has a great definition below of a startup.
 
