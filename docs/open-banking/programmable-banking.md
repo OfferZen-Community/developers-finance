@@ -60,7 +60,7 @@ The Programmable Banking community are always finding new ways to solve interest
 |[How OneCart OneCart Used Programmable Banking for Fraud Detection and Prevention](https://www.offerzen.com/blog/onecart-using-programmable-banking-for-fraud-detection-and-prevention)|![](<//img/assets/onecart.png>)|
 |[Track expiring card subscriptions](https://www.offerzen.com/blog/programmable-banking-community-an-easy-way-to-track-your-expiring-subscriptions) |![](<//img/assets/expiringcards.png>)|
 |[How To Save Money While You Run](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-money-while-you-run)|![](<//img/assets/savemoneyrunning.png>)|
-|[How Afican Alliance Automated Expense Allocation to Save Time and Costs ](https://www.offerzen.com/blog/how-african-alliance-automated-expense-allocation-to-save-time-and-costs)|![](<//img//assets/africanalliance.png>)|
+|[How African Alliance Automated Expense Allocation to Save Time and Costs ](https://www.offerzen.com/blog/how-african-alliance-automated-expense-allocation-to-save-time-and-costs)|![](<//img//assets/africanalliance.png>)|
 | [Buying Electricity with Bitcoin: The “LightningWatts” Proof of Concept](https://www.offerzen.com/blog/buying-electricity-with-bitcoin-the-lightningwatts-proof-of-concept)|![](<//img/assets/lighteningwatts.png>)|
 |[How We Created a Proof of Concept in a Day](https://www.offerzen.com/blog/how-we-created-a-proof-of-concept-in-a-day)|![](<//img/assets/poc.png>)|
 |[How To Save On Your Mortgage Interest](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-on-your-mortgage-interest)|![](<//img/assets/savemortageinterest.png>)|
