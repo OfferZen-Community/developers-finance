@@ -24,7 +24,7 @@ We have partnered with [**Investec**](https://www.investec.com/en\_za.html) to p
 In addition, we have worked closely with members of the [**OfferZen developer community**](https://www.offerzen.com/community) to develop the framework for this guide and ensure that the content we include is valuable and useful to you.&#x20;
 
 :::info
-If you're a developer in SA reading this guide and have questions relating to personal finances that we haven't covered, please submit them [**here**](https://8malmkzgvs8.typeform.com/to/oLVWxa8r) or create an issue on [**GitHub**](https://github.com/OfferZen-Community/developers-finance). We want to make sure that we curate content that is useful to you. You are also welcome to make suggestions or edits to the guide so that we can build this out together.
+If you're a developer reading this guide and have questions relating to personal finances that we haven't covered, please submit them [**here**](https://8malmkzgvs8.typeform.com/to/oLVWxa8r) or create an issue on [**GitHub**](https://github.com/OfferZen-Community/developers-finance). We want to make sure that we curate content that is useful to you. You are also welcome to make suggestions or edits to the guide so that we can build this out together.
 :::
 
 ### What this isn't
