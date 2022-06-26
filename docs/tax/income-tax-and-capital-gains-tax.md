@@ -12,7 +12,7 @@ South African tax residents are taxed on their **worldwide income and gains**, i
 
 **Income tax**, also referred to as **normal tax**, is levied on an individual's **taxable income** for a particular year of assessment (1 March until the last day of February the following year). 
 
-**Taxable income** is calcualted by taking the income that you earn, either by way of remuneration (eg. salary from a job) or trade (eg. consulting fees for an independent consultant) and adjusting the value to take into account things such as exempt income, deductions and allowances and the taxable portion of your capital gains.
+**Taxable income** is calculated by taking the income that you earn, either by way of remuneration (eg. salary from a job) or trade (eg. consulting fees for an independent consultant) and adjusting the value to take into account things such as exempt income, deductions and allowances and the taxable portion of your capital gains.
 
 See below a basic formula to calculate taxable income.
 

@@ -43,5 +43,3 @@ The Programmable Banking community are always finding new ways to solve interest
 |[How To Easily Automate & Analyse Your Personal Finances](https://www.offerzen.com/blog/programmable-banking-community-how-to-easily-automate-analyse-your-personal-finances)|[![image](<//img/assets/russellsolution.png>)](https://www.offerzen.com/blog/programmable-banking-community-how-to-easily-automate-analyse-your-personal-finances)|
 |[How To Save On Interest When Paying Off Debt](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-on-interest-when-paying-off-debt)|[![image](<//img/assets/saveinterstpayoffdebt.png>)](https://www.offerzen.com/blog/programmable-banking-community-how-to-save-on-interest-when-paying-off-debt)|
 |[A Simpler Way to Plan & Manage your Businesses Taxes](https://www.offerzen.com/blog/programmable-banking-community-a-simpler-way-to-plan-manage-your-businesses-taxes)|[![image](<//img/assets/businesstaxes.png>)](https://www.offerzen.com/blog/programmable-banking-community-a-simpler-way-to-plan-manage-your-businesses-taxes)|
-
-
