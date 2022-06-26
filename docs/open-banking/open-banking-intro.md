@@ -43,5 +43,5 @@ Our multi-generational offering enables you to not only open a [**Private Bank A
 
 But our offering goes beyond banking. You can also access [**Travel by Investec**](https://www.investec.com/en_za/banking/rewards/travel.html) and our Private Selection team will bring you the latest, most valuable deals, opportunities and experiences you can’t get anywhere else. 
 
-[![image](pathname:///img/assets/investecprivatebank.jpg)](https://images.investec.com/Private_client_multi_generational_offering_v19.pdf)
+[![image](pathname:///img/assets/investecprivatebank.png)](https://images.investec.com/Private_client_multi_generational_offering_v19.pdf)
 
