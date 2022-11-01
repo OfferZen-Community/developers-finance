@@ -6,6 +6,8 @@ sidebar_position: 2
 
 # Fundraising
 
+![banner](pathname:///img/assets/rekaborole_fundraising.png)
+
 [Reka Borole](https://www.linkedin.com/in/reka-borole-69657b143/), founder at [HeyJemby](https://www.linkedin.com/company/heyjemby/) shares his insights into fundraising - everything from when it's a good time to start to how much to raise. &#x20;
 
 ## Is venture capital for you?
