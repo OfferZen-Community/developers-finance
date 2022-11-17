@@ -88,7 +88,7 @@ The formula for working out your deduction is:
 * When filling in the form generation Wizard at the start of the form, answer **“Yes”** to the following question: **“Did you incur any expenditure that you wish to claim as a deduction that was not addressed by the previous questions?”**
 * Then enter the deduction amount next to the relevant source code: 4028 (Home office expenses)
 
-### How likely am I to be audited after claining for my home office expenses?
+### How likely am I to be audited after claiming for my home office expenses?
 * SARS are likely to verify (via a desk audit at least) home office claims, especially in your first year of making such a claim. 
 
 * If this happens, you should have the following documents ready:
@@ -108,7 +108,7 @@ You would need to request to reopen those years of assessments to correct them.
 
 The home office is apportioned only for the section that you pay levies on. Other units and common property do not get taken into account in the calculation.
 
-## What happens if I sell the house in which I have been operating my home office?
+### What happens if I sell the house in which I have been operating my home office?
 
 * The first R2 million of a capital gain from the sale of a primary residence is exempt from Capital Gains Tax (CGT).
 * The portion of the residence claimed as a home office results in a tainting of this portion, as it was used for trade.
