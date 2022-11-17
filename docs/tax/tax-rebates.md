@@ -39,10 +39,10 @@ A home office is a room that meets **all of the following conditions**:
 **50/250 =20%. Therefore you cannot claim a home office tax deduction.**
 
 
-* **It must also be exclusively used** - this means that you may not use the home office for any other purpose other than trade or work function, except for trivial usage. This requirement is applied strictly and applies to use after working hours and on weekends. In many cases, this factor will prevent a deduction, as many people use their home office for other purposes outside of working hours.
+* **It must also be exclusively used** - this means that you may not use the home office for any other purpose other than trade or work function, except for very trivial usage. This requirement is applied strictly and applies to use after working hours and on weekends. In many cases, this factor will prevent a deduction, as many people use their home office for other purposes outside of working hours.
 
 > **For example**
-* Taking personal phone calls whilst in your home office is trivial use and does not impact a claim.
+* Taking occasional personal phone calls whilst in your home office is regarded as trivial use and should not impact a claim.
 * If your home office is used as a guest bedroom then it is not exclusive use and you cannot claim.
 * If your home office also serves as a storage room for linen in a cupboard then you need to exclude the linen cupboard from the home office m<sup>2</sup>, and claim for the remaining portion.
 
@@ -79,7 +79,7 @@ The formula for working out your deduction is:
 **Deduction = (HomeOffice m<sup>2</sup> / AllBuildings m<sup>2</sup>) X (QualifyingExpenses)**
 
 * All buildings on the property need to be taken into account with regard to total floor area (including garages, outbuildings). Land or plot size is not relevant for the calculation. 
-* The calculation must be based on accurate measurements and cannot be an estimate.
+* The area calculation must be based on accurate measurements and cannot be an estimate (the formal house plan/drawings would be best, but are not a prerequisite).
 * No portion of kitchen or bathroom facilities can be considered part of the home office m<sup>2</sup>, as they are not used exclusively for trade. 
 
 ### Where do I submit my information for a home office tax deduction?
@@ -106,7 +106,7 @@ You would need to request to reopen those years of assessments to correct them.
 
 ### How do I deal with the other buildings/flats if I live in a complex or block of flats?
 
-The home office is apportioned only for the section that you pay levies on. Other units and common property do not get taken into account in the calculation.
+The home office is apportioned only for the section that you pay levies on (your flat or unit). Other units and common property do not get taken into account in the calculation.
 
 ### What happens if I sell the house in which I have been operating my home office?
 
@@ -114,7 +114,7 @@ The home office is apportioned only for the section that you pay levies on. Othe
 * The portion of the residence claimed as a home office results in a tainting of this portion, as it was used for trade.
 * The home office portion of the residence will not be eligible for the R2 million exemption (but the full R2 million can still be applied to the rest of the property).
 * CGT will be applicable to the home office on a time apportioned basis (as the value of the property appreciates over time).
-* **An average person will probably require the advice of a Tax practitioner to complete their tax return for the tax year in which their primary residence is sold if a home office deduction was claimed.**
+* **An average person will probably require the advice of a Tax practitioner to complete their tax return for the tax year in which their primary residence is sold if a home office deduction was claimed in the past.**
 
 
 For more information relating to the deduction of home office expenses, kindly refer to [Interpretation Note 28 (Issue 3)](https://www.sars.gov.za/wp-content/uploads/Legal/Notes/LAPD-IntR-IN-2012-28-Home-Office-Expenses-Deductions.pdf), published by SARS.
@@ -131,4 +131,4 @@ For more information relating to the deduction of home office expenses, kindly r
 In a media release published by SARS on 1 July 2021, they advised taxpayers to carefully consider any claim for home office expenses before filing their income tax returns. An incorrect claim could result in the payment of interest and penalties by the taxpayer.
 :::
 
-_**Disclaimer**: The answers above are only applicable to individuals who are exclusively regarded as tax residents of South Africa. This is for information purposes only, and does not constitute professional tax advice. We urge you to seek independent tax advise to ensure that your tax circumstances have been properly considered. **The information is only applicable to fixed-salary employees.**_
+_**Disclaimer**: The answers above are only applicable to individuals who are exclusively regarded as tax residents of South Africa. This is for information purposes only, and does not constitute professional tax advice. We urge you to seek independent tax advice to ensure that your tax circumstances have been properly considered. **The information is only applicable to fixed-salary employees.**_
