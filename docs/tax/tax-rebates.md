@@ -44,7 +44,7 @@ A home office is a room that meets **all of the following conditions**:
 > **For example**
 * Taking personal phone calls whilst in your home office is trivial use and does not impact a claim.
 * If your home office is used as a guest bedroom then it is not exclusive use and you cannot claim.
-* If your home office also serves as a storage room for linen in a cupboard then you need to exclude the linen cupboard from the home office m<sup>2</sup>, and claim for the reamining portion.
+* If your home office also serves as a storage room for linen in a cupboard then you need to exclude the linen cupboard from the home office m<sup>2</sup>, and claim for the remaining portion.
 
 * **Lastly it must be specifically equipped** - this means that the room must house the equipment needed for employment. This would differ depending on the nature of the employee's work. For a regular knowledge worker, this would include items such as a workstation, chair, computer and communication equipment. 
 
@@ -82,7 +82,7 @@ The formula for working out your deduction is:
 * The calculation must be based on accurate measurements and cannot be an estimate.
 * No portion of kitchen or bathroom facilities can be considered part of the home office m<sup>2</sup>, as they are not used exclusively for trade. 
 
-### Where do I submit my infomration for a home office tax deduction?
+### Where do I submit my information for a home office tax deduction?
 
 * A home office deduction falls under the “Other deductions” section of your ITR12 return.
 * When filling in the form generation Wizard at the start of the form, answer **“Yes”** to the following question: **“Did you incur any expenditure that you wish to claim as a deduction that was not addressed by the previous questions?”**
@@ -131,4 +131,4 @@ For more information relating to the deduction of home office expenses, kindly r
 In a media release published by SARS on 1 July 2021, they advised taxpayers to carefully consider any claim for home office expenses before filing their income tax returns. An incorrect claim could result in the payment of interest and penalties by the taxpayer.
 :::
 
-_**Disclaimer**: The answers above are only applicable to individuals who are exclusively regarded as tax residents of South Africa. This is for information purposes only, and does not constitute profession tax advice. We urge you to seek independent tax advise to ensure that your tax circumstances have been properly considered. **The information is only applicable to fixed-salary employees.**_
+_**Disclaimer**: The answers above are only applicable to individuals who are exclusively regarded as tax residents of South Africa. This is for information purposes only, and does not constitute professional tax advice. We urge you to seek independent tax advise to ensure that your tax circumstances have been properly considered. **The information is only applicable to fixed-salary employees.**_
